@@ -21,15 +21,13 @@
 
 ## 🚨 Have a Problem
 
-✈ Join Discord:  [NanoSpace ♪♪](https://discord.gg/SNG3dh3MbR)
+✈ Join Discord:  [Arbotix bot](https://discord.gg/7wmb5x7qp4)
    mention me in chat #general or #javascript and ask problem okay! 👌
 
 
 ## 📎 Requirements
 
 1. Discord Bot Token **[Guide](https://discordjs.guide/preparations/setting-up-a-bot-application.html#creating-your-bot)**
-2. Lavalink **[Guide](https://github.com/freyacodes/lavalink)** (switch back to default lavalink!)
-- PT. Use my application.yml [PasteBin](https://pastebin.com/FwekJDuX) Fixed the issue of songs not matching the ones specified. 
 
 ## 🛑 Super Requirements 
 
@@ -39,7 +37,7 @@
 ## 📚 Installation
 
 ```
-git clone https://github.com/Adivise/NanoSpace
+git clone https://github.com/Hjgaming/advance-music-bot
 cd NanoSpace
 npm install
 ```
